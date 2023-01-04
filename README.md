@@ -1,10 +1,10 @@
 # AWS
-Rest API & Relational DBMS
+1. Rest API & Relational DBMS
 
-Data Lake Architecture with AWS S3
+2. Data Lake Architecture with AWS S3
 
-Cloud Computing with AWS EC-2
+3. Cloud Computing with AWS EC-2
 
-PySpark & Data Analysis
+4. PySpark & Data Analysis
 
-Data Workflow & Pipeline & AWS Lambda
+5. Data Workflow & Pipeline & AWS Lambda
